@@ -11,8 +11,11 @@ namespace RndSuiteTranslation
     {
         static void Main(string[] args)
         {
-            StreamReader x = new StreamReader("strings.js");
-
+            StreamReader fileReader = new StreamReader("strings.js");
+            
+            
         }
+
+
     }
 }
